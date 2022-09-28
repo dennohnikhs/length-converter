@@ -1,0 +1,26 @@
+body{
+    background-color:black;
+    
+}
+
+#tittle{
+    color: aliceblue;
+}
+#centimeters,#meters,#yards,#feet,#kilometers,#inches,#miles {
+    height:2rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    
+    
+}
+#main-container{
+    margin-left: 15rem;
+}
+
+#component{
+    color: green;  
+}
+
+#component2 {
+    color: green;  
+}
